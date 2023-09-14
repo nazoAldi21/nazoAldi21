@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @nazoAldi21
 - 👀 I’m interested in Programming and Design
-- 🌱 I’m currently learning Data
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Data Analysis and Visualitation
 
 <!---
 nazoAldi21/nazoAldi21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
